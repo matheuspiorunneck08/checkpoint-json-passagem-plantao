@@ -1,0 +1,30 @@
+[
+    {
+        "servico": "agendamento",
+        "descricao": "Ao confirmar a consulta, a tela fica carregando e o horário não é reservado.",
+        "prioridade": "alta",
+        "status": "aberto",
+        "proxima_acao": "Verificar o log do serviço de reservas e testar com outro horário."
+    },
+    {
+        "servico": "relatório",
+        "descricao": "O relatório mensal exibe a data no formato americano.",
+        "prioridade": "baixa",
+        "status": "aberto",
+        "proxima_acao": "Ajustar o formato da data para dd/mm/aaaa."
+    },
+    {
+        "servico": "login",
+        "descricao": "Usuários de teste não conseguiam entrar após troca de senha.",
+        "prioridade": "alta",
+        "status": "resolvido",
+        "proxima_acao": "nenhuma"
+    },
+    {
+        "servico": "notificação",
+        "descricao": "O lembrete por e-mail chega duas vezes para a mesma consulta.",
+        "prioridade": "media",
+        "status": "aberto",
+        "proxima_acao": "Conferir se o envio está sendo disparado em duplicidade."
+    }
+]

@@ -1,0 +1,21 @@
+PASSAGEM DE PLANTÃO
+Sistema: AgendaFácil - Agendamento de Consultas
+Ocorrências abertas: 3
+Abertas com prioridade alta: 1
+
+Pendências:
+
+1. Serviço: agendamento
+   Descrição: Ao confirmar a consulta, a tela fica carregando e o horário não é reservado.
+   Prioridade: alta
+   Próxima ação: Verificar o log do serviço de reservas e testar com outro horário.
+
+2. Serviço: relatório
+   Descrição: O relatório mensal exibe a data no formato americano.
+   Prioridade: baixa
+   Próxima ação: Ajustar o formato da data para dd/mm/aaaa.
+
+3. Serviço: notificação
+   Descrição: O lembrete por e-mail chega duas vezes para a mesma consulta.
+   Prioridade: media
+   Próxima ação: Conferir se o envio está sendo disparado em duplicidade.

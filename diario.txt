@@ -1,0 +1,3 @@
+Login — Limpeza do cache de sessão resolveu o acesso dos usuários de teste
+Agendamento — Reinício do serviço de reservas testado sem sucesso
+Notificação — Dois e-mails confirmados para a consulta de teste das 14h
